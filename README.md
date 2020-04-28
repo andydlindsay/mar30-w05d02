@@ -8,8 +8,8 @@
 - [ ] Normalization
 - [ ] Design Concepts
 - [ ] Entity Relationship Diagrams
-- [ ] ERD #1: Convert 2 Spreadsheets
-- [ ] ERD #2: Student Suggestion
+- [ ] Breakout: Convert 2 Spreadsheets [20 mins]
+- [ ] Student Suggestion ERD(s)
 
 
 
