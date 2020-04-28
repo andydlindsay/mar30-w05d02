@@ -67,7 +67,7 @@
 ### Student Suggestion: Jurassic Park
 We created an ERD for Jurassic Park:
 
-![JP]()
+![JP](https://raw.githubusercontent.com/andydlindsay/mar30-w05d02/master/jurassic%20park.png)
 
 ### Useful Links
 * [Database Normalization](https://en.wikipedia.org/wiki/Database_normalization)
